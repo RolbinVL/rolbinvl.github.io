@@ -1,0 +1,36 @@
+{
+    "name": "CDG",
+    "short_name": "CDG",
+    "star_uri": "/index.html",
+    "display": "standalone",
+    "background-color": "#D41872",
+    "theme-color": "#D41872",
+    "orientation": "portrait",
+    "icons":[
+        {
+            "src": "img/icons/store_icon_48",
+            "type": "image/png",
+            "size": "48x48"
+        },
+        {
+            "src": "img/icons/store_icon_64",
+            "type": "image/png",
+            "size": "64x64"
+        },
+        {
+            "src": "img/icons/store_icon_128",
+            "type": "image/png",
+            "size": "128x128"
+        },
+        {
+            "src": "img/icons/store_icon_256",
+            "type": "image/png",
+            "size": "256x256"
+        },
+        {
+            "src": "img/icons/store_icon_512",
+            "type": "image/png",
+            "size": "512x512"
+        }
+    ]
+}
